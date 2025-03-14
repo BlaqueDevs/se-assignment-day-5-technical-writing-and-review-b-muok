@@ -80,20 +80,20 @@ For regular folks:
 
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 •	Instead of: "Initiate the process." 
-o	Use: "Start the process."
-o	Why it's better: "Start" is a common, everyday word, while "initiate" is more formal and less familiar.
+-	Use: "Start the process."
+-	Why it's better: "Start" is a common, everyday word, while "initiate" is more formal and less familiar.
 •	Instead of: "Utilize the function." 
-o	Use: "Use the function."
-o	Why it's better: "Use" is simpler and more direct than "utilize."
+  -Use: "Use the function."
+  -Why it's better: "Use" is simpler and more direct than "utilize."
 •	Instead of: "Implement the solution." 
-o	Use: "Apply the solution" or "Put the solution into action."
-o	Why it's better: "Implement" can sound overly technical, while "apply" or "put into action" are more accessible.
+  -Use: "Apply the solution" or "Put the solution into action."
+  -Why it's better: "Implement" can sound overly technical, while "apply" or "put into action" are more accessible.
 •	Instead of: "Ascertain the validity." 
-o	Use: "Check if it's true."
-o	Why it's better: "Ascertain" is a formal and less common word, while "check if it's true" is straightforward.
+	-Use: "Check if it's true."
+  -Why it's better: "Ascertain" is a formal and less common word, while "check if it's true" is straightforward.
 •	Instead of: "Optimize the parameters." 
-o	Use: "Make the settings better."
-o	Why it's better: "Optimize" and "parameters" are technical terms, while "make the settings better" is easily understood.
+  -Use: "Make the settings better."
+  -Why it's better: "Optimize" and "parameters" are technical terms, while "make the settings better" is easily understood.
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 Why Examples Help:
@@ -118,9 +118,9 @@ Why Visuals Help:
 3. Charts and Graphs:
 •	Purpose: Presenting statistical data, Showing trends and comparisons, and visualizing numerical information.
 •	Types: 
-o	Bar charts: Comparing categories.   
-o	Line graphs: Showing trends over time.   
-o	Pie charts: Showing parts of a whole.   
+ -Bar charts: Comparing categories.   
+ -Line graphs: Showing trends over time.   
+ -Pie charts: Showing parts of a whole.   
 •	Best for: Performance metrics, data analysis, research findings, and any information that can be quantified.
 4. Screenshots:
 •	Purpose: Demonstrating software interfaces, providing step-by-step instructions, and showing real-world examples.
@@ -163,24 +163,24 @@ o	Pie charts: Showing parts of a whole.
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 1. Concise Product Description (The "What"):
 •	Start with a clear, one-sentence summary: This should be the core of your introduction, immediately stating the product's primary function. 
-o	Example: "This library provides a simple API for generating dynamic QR codes."
-o	Example: "This application automates the process of backing up your important files."
+-Example: "This library provides a simple API for generating dynamic QR codes."
+-	Example: "This application automates the process of backing up your important files."
 •	Use plain language: Avoid technical jargon unless your target audience is exclusively composed of experts.   
 •	Focus on the core functionality: Highlight the most important features and capabilities.
 2. Purpose and Benefits (The "Why"):
 •	Explain the problem it solves: Briefly describe the issue your product addresses. 
-o	Example: "Tired of manually creating QR codes? This library simplifies the process."
-o	Example: "Losing important files can be devastating. This app provides a simple reliable backup solution."
+-Example: "Tired of manually creating QR codes? This library simplifies the process."
+-Example: "Losing important files can be devastating. This app provides a simple reliable backup solution."
 •	Highlight the key benefits: Emphasize the advantages of using your product. 
-o	Example: "Save time and effort with our intuitive QR code generation API."
-o	Example: "Protect your valuable data with automated, secure backups."
+-	Example: "Save time and effort with our intuitive QR code generation API."
+-	Example: "Protect your valuable data with automated, secure backups."
 •	Address the target audience: Briefly mention who the product is intended for. 
-o	Example: "Ideal for developers needing to integrate QR code generation into their applications."
-o	Example: "Perfect for anyone who wants a simple, reliable backup solution."
+  -Example: "Ideal for developers needing to integrate QR code generation into their applications."
+-	Example: "Perfect for anyone who wants a simple, reliable backup solution."
 3. Quick Start (The "How"):
 •	Provide a simple example or code snippet: Give users a taste of how to use your product. 
-o	Example: "To generate a basic QR code, use the following code:" (followed by a short code snippet).
-o	Example: "Download and install the app, then select the folders you wish to backup."
+  -Example: "To generate a basic QR code, use the following code:" (followed by a short code snippet).
+  -Example: "Download and install the app, then select the folders you wish to backup."
 •	Link to more detailed documentation: Direct users to further resources for in-depth information.   
 •	If applicable, give straightforward installation instructions.
 4. Visuals (If Applicable):
